@@ -1,6 +1,6 @@
 # Overview
 
-This project is part of the DS4A 2023 - Data Skills For All initiative, focusing on building a comprehensive credit card fraud detection system. The system aims to leverage historical transaction data, customer profiles, and advanced analytics to predict and prevent fraudulent credit card activity.
+This project focus on building a comprehensive credit card fraud detection system. The system aims to leverage historical transaction data, customer profiles, and advanced analytics to predict and prevent fraudulent credit card activity.
 
 # Background
 
